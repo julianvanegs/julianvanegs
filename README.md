@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-My name is Julian Vanegs I'm Sofware Developer, currently leaning in Riwi improving my development knowlegde, I previously learned some programming lenguages like Python and Javascript with Html, CSs and some frameworks suck as React ,Typescript, and more  but, in a low-level; My favorite area is the frontend, it is my strong skill and actually i worked with some clients and that made me improve my skills and gain experience.In fact i aspire be a businessman and create my own software development company and currently im in the process. Im looking in the moment collabore on Cocacola, Pepsi, Google, etc, with the porpose to learn about the the big companies
+My name is Julian Vanegas I'm Sofware Developer, currently leaning in Riwi improving my development knowlegde, I previously learned some programming lenguages like Python and Javascript with Html, CSs and some frameworks suck as React ,Typescript, and more  but, in a low-level; My favorite area is the frontend, it is my strong skill and actually i worked with some clients and that made me improve my skills and gain experience.In fact i aspire be a businessman and create my own software development company and currently im in the process. Im looking in the moment collabore on Cocacola, Pepsi, Google, etc, with the porpose to learn about the the big companies
 
 
 <!--
